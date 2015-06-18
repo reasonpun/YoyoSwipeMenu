@@ -1,0 +1,1 @@
+this is swipe menu list view and build by gradle.
